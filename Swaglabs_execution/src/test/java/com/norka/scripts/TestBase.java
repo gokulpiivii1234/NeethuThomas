@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.BeforeTest;
 
-public class TestBase {
+public class TestBase1 {
 	static WebDriver driver;
 	public  static Properties prop=null;
 	
